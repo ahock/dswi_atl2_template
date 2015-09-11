@@ -1,0 +1,15 @@
+{
+  "name": "DSWI ATL2 Grundgerüst",
+  "version": "1.0.0",
+  "description": "Grundgerüst mit Serverlogic, Daten und Test-Seite zur Durchführung der ATL2",
+  "main": "server.js",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/ahock/dswi_atl2.git"
+  }
+  "author": "Andreas Hock <andreashock@bluewin.ch>",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
