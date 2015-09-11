@@ -1,0 +1,939 @@
+{
+  "Fach": [
+    {
+      "Name": "DSWI 13H - APPL",
+      "Event": [
+        {
+          "Datum": "08.09.2014",
+          "Teilnehmer": [
+            {
+              "Nachname": "Arocker",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Arslani",
+              "Vorname": "Aris",
+              "H1": true,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Bächli",
+              "Vorname": "Karin",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Buric",
+              "Vorname": "Marko",
+              "H1": true,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Calik",
+              "Vorname": "Hasan",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Gerber",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Guillemin",
+              "Vorname": "Tobias",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Imark",
+              "Vorname": "Nathalie",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Lüdin",
+              "Vorname": "Yves",
+              "H1": false,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Sven",
+              "H1": false,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Messmer",
+              "Vorname": "Fabian",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Palandizlar",
+              "Vorname": "Mümine",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Scherrer",
+              "Vorname": "Sandro",
+              "H1": false,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Schmid",
+              "Vorname": "Andreas",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Jennifer",
+              "H1": true,
+              "H2": false,
+              "LLP": 0
+            }
+          ]
+        },
+        {
+          "Datum": "10.09.2014",
+          "Teilnehmer": [
+            {
+              "Nachname": "Arocker",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Arslani",
+              "Vorname": "Aris",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Bächli",
+              "Vorname": "Karin",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Buric",
+              "Vorname": "Marko",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Calik",
+              "Vorname": "Hasan",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Gerber",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Guillemin",
+              "Vorname": "Tobias",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Imark",
+              "Vorname": "Nathalie",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Lüdin",
+              "Vorname": "Yves",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Sven",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Messmer",
+              "Vorname": "Fabian",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Palandizlar",
+              "Vorname": "Mümine",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Scherrer",
+              "Vorname": "Sandro",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Schmid",
+              "Vorname": "Andreas",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Jennifer",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "DSWI 12H - APPL",
+      "Event": [
+        {
+          "Datum": "13.09.2014",
+          "Teilnehmer": [
+            {
+              "Nachname": "Hock",
+              "Vorname": "Andreas",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dall",
+              "Vorname": "Karl",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Knopf",
+              "Vorname": "Jim",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Langstrumpf",
+              "Vorname": "Pippi",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "May",
+              "Vorname": "Karl",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            }
+          ]
+        },
+        {
+          "Datum": "13.10.2014",
+          "Teilnehmer": [
+            {
+              "Nachname": "Hock",
+              "Vorname": "Andreas",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dall",
+              "Vorname": "Karl",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Knopf",
+              "Vorname": "Jim",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Langstrumpf",
+              "Vorname": "Pippi",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "May",
+              "Vorname": "Karl",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Hock",
+              "Vorname": "Andreas",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dall",
+              "Vorname": "Karl",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Knopf",
+              "Vorname": "Jim",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Langstrumpf",
+              "Vorname": "Pippi",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "May",
+              "Vorname": "Karl",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Dampf",
+              "Vorname": "Hans",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "DSWI 13H - ITSM",
+      "Event": [
+        {
+          "Datum": "01.01.2015",
+          "Teilnehmer": [
+            {
+              "Nachname": "Arocker",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Arslani",
+              "Vorname": "Aris",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Bächli",
+              "Vorname": "Karin",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Buric",
+              "Vorname": "Marko",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Calik",
+              "Vorname": "Hasan",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Gerber",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Guillemin",
+              "Vorname": "Tobias",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Imark",
+              "Vorname": "Nathalie",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Lüdin",
+              "Vorname": "Yves",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Sven",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Messmer",
+              "Vorname": "Fabian",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Palandizlar",
+              "Vorname": "Mümine",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Scherrer",
+              "Vorname": "Sandro",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Schmid",
+              "Vorname": "Andreas",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Jennifer",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            }
+          ]
+        },
+        {
+          "Datum": "10.01.2015",
+          "Teilnehmer": [
+            {
+              "Nachname": "Arocker",
+              "Vorname": "Roman",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Arslani",
+              "Vorname": "Aris",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Bächli",
+              "Vorname": "Karin",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Buric",
+              "Vorname": "Marko",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Calik",
+              "Vorname": "Hasan",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Gerber",
+              "Vorname": "Roman",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Guillemin",
+              "Vorname": "Tobias",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Imark",
+              "Vorname": "Nathalie",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Lüdin",
+              "Vorname": "Yves",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Sven",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Messmer",
+              "Vorname": "Fabian",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Palandizlar",
+              "Vorname": "Mümine",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Scherrer",
+              "Vorname": "Sandro",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Schmid",
+              "Vorname": "Andreas",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Jennifer",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "DSWI 14H - ITSM",
+      "Event": [
+        {
+          "Datum": "01.01.2015",
+          "Teilnehmer": [
+            {
+              "Nachname": "Arocker",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Arslani",
+              "Vorname": "Aris",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Bächli",
+              "Vorname": "Karin",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Buric",
+              "Vorname": "Marko",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Calik",
+              "Vorname": "Hasan",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Gerber",
+              "Vorname": "Roman",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Guillemin",
+              "Vorname": "Tobias",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Imark",
+              "Vorname": "Nathalie",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Lüdin",
+              "Vorname": "Yves",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Sven",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Messmer",
+              "Vorname": "Fabian",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Palandizlar",
+              "Vorname": "Mümine",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Scherrer",
+              "Vorname": "Sandro",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Schmid",
+              "Vorname": "Andreas",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Jennifer",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            }
+          ]
+        },
+        {
+          "Datum": "10.01.2015",
+          "Teilnehmer": [
+            {
+              "Nachname": "Arocker",
+              "Vorname": "Roman",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Arslani",
+              "Vorname": "Aris",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Bächli",
+              "Vorname": "Karin",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Buric",
+              "Vorname": "Marko",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Calik",
+              "Vorname": "Hasan",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Gerber",
+              "Vorname": "Roman",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Guillemin",
+              "Vorname": "Tobias",
+              "H1": true,
+              "H2": true,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Imark",
+              "Vorname": "Nathalie",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Lüdin",
+              "Vorname": "Yves",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Sven",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Messmer",
+              "Vorname": "Fabian",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Palandizlar",
+              "Vorname": "Mümine",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Scherrer",
+              "Vorname": "Sandro",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Schmid",
+              "Vorname": "Andreas",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            },
+            {
+              "Nachname": "Meier",
+              "Vorname": "Jennifer",
+              "H1": false,
+              "H2": false,
+              "LLP": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

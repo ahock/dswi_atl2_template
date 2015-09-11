@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Präsenz</title>
+        <script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+        <script type="text/javascript" src="js/logic.js"></script>
+        <script type="text/javascript">
+            $("document").ready( function() {
+                var praesenzverwaltung = new praesenzen( function(){
+                    var fachliste = praesenzverwaltung.getFachListe();
+                    for(var i in fachliste) {
+                        //Jedes Fach anzeigen
+                        $("<div>"+fachliste[i].Name+"<div id='Fach"+i+"'></div></div>").appendTo($("#fach"));
+                        praesenzverwaltung.setFachById(i);
+                        var eventliste = praesenzverwaltung.getEventListe();
+                        console.log("Eventliste",eventliste);
+                        for(var j in eventliste) {
+                            console.log("Event",eventliste[j]);
+                            $("<div>"+eventliste[j].Datum+"<div id='Event"+i+j+"'></div></div>").appendTo($("#Fach"+i));
+                            praesenzverwaltung.setEventById(j);
+                            var tlnliste = praesenzverwaltung.getTeilnehmerListe();
+                            for(var k in tlnliste) {
+                                $("<span>"+tlnliste[k].Vorname+" "+tlnliste[k].Nachname+"["+tlnliste[k].H1+","+tlnliste[k].H2+"]; <span id='Praesenz"+i+j+k+"'></span></span>").appendTo($("#Event"+i+j));
+                            }
+                        }
+                    }
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div class="header" id="head">Unterrischtspr&auml;senz</div>
+            <div id="fach"/>
+        </div>
+    </body>
+</html>
