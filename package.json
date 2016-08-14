@@ -7,7 +7,7 @@
   {
     "type" : "git",
     "url" : "https://github.com/ahock/dswi_atl2.git"
-  }
+  },
   "author": "Andreas Hock <andreashock@bluewin.ch>",
   "dependencies": {
     "express": "~3.2.4"
