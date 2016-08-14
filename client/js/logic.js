@@ -1,5 +1,6 @@
+/* global $ */
 function praesenzen( callback ) {
-    // Version 3, 20.05.2014
+    // Version 4, 14.08.2016
     //  Autosave
     //
     // Version 2, 24.10.2014
