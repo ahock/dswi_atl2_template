@@ -1,5 +1,5 @@
 {
-  "name": "dswi atl 2 grundgeruest",
+  "name": "dswi_atl2_grundgeruest",
   "version": "1.0.0",
   "description": "Grundgeruest mit Serverlogic, Daten und Test-Seite zur Durchfuehrung der ATL2",
   "main": "server.js",
