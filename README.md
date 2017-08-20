@@ -4,14 +4,10 @@
 
 # Online Nachschlagewerke
 Code for class Application Engineering ATL 2
-
-[Git-Befehle](https://rogerdudler.github.io/git-guide/index.de.html)
-
-[MarkDown-Hilfe](https://help.github.com/categories/writing-on-github) und 
-[MarkDown Online Editor](http://dillinger.io)
-
-[JSON-Online Editor](http://www.jsoneditoronline.org)
-
+Git-Befehle:https://rogerdudler.github.io/git-guide/index.de.html
+MarkDown-Hilfe:https://help.github.com/categories/writing-on-github/
+[Dillinger Online Editor](http://dillinger.io)
+JSON-Online Editor:http://www.jsoneditoronline.org/
 
 > Beschreibung der Komponente, welche vom Dozenten bereitgestellt wird.
 
@@ -26,6 +22,21 @@ bash
 ```sh
 $ npm install
 ```
+- Doppelklick auf das File **server.js**
+- Runner auf **Node 0.10.x** umstellen
+- Auf **RUN** klicken
+- Angegebene URL + /test.html aufrufen
+- **Open the App** - Meldung bestätigen
+Der folgende Text wird ausgegeben, als Bestätigung, dass die Logik funktioniert:
+>Unterrischtspräsenz
+>DSWI 13H - APPL
+>08.09.2014
+>Roman Arocker[true,true]; Aris Arslani[true,false]; Karin Bächli[true,true]; Marko Buric[true,false]; Hasan Calik[true,true]; Roman Gerber[true,false]; Tobias Guillemin[true,true]; Nathalie Imark[false,false]; Yves >Lüdin[false,true]; Sven Meier[false,true]; Fabian Messmer[true,true]; Mümine Palandizlar[true,true]; Sandro Scherrer[false,true]; Andreas Schmid[false,false]; Jennifer Meier[true,false]; 
+>10.09.2014
+>Roman Arocker[true,true]; Aris Arslani[true,true]; Karin Bächli[true,true]; Marko Buric[true,true]; Hasan Calik[true,true]; Roman Gerber[true,true]; Tobias Guillemin[true,true]; Nathalie Imark[true,true]; Yves Lüdin[true,true]; >Sven Meier[true,true]; Fabian Messmer[true,true]; Mümine Palandizlar[true,true]; Sandro Scherrer[true,true]; Andreas Schmid[true,true]; Jennifer Meier[true,true]; 
+>DSWI 12H - APPL
+>13.09.2014 ...
+
 
 ```javascript
 function fancyAlert(arg) {
