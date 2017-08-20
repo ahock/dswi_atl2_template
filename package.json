@@ -1,15 +1,16 @@
 {
   "name": "dswi_atl2_grundgeruest",
   "version": "1.1.0",
+  "license": "UNLICENSED",
   "description": "Grundgeruest mit Serverlogic, Daten und Test-Seite zur Durchfuehrung der ATL2",
   "main": "server.js",
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/ahock/dswi_atl2.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahock/dswi_atl2.git"
   },
   "author": "Andreas Hock <andreashock@bluewin.ch>",
   "dependencies": {
-    "express": "~3.2.4"
+    "express": "~3.2.4",
+    "connect": "~2.7.11"
   }
 }
